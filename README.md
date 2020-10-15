@@ -1,4 +1,4 @@
-# TD
+# Introduction
 Repository for image processing intro
 
  * ImageJ [homepage](https://imagej.nih.gov/ij/)
